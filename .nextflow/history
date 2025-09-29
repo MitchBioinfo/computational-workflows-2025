@@ -1,0 +1,2 @@
+2025-09-29 12:02:52	24.5s	grave_davinci	ERR	3dd360fed0dca1780db1bdf5dce85e5258fa2253	69b58f11-2f10-41fe-81c8-62329baff66a	nextflow run nf-core/differentialabundance --outdir results -profile test,docker
+2025-09-29 12:04:03	25.9s	goofy_goodall	ERR	3dd360fed0dca1780db1bdf5dce85e5258fa2253	00429d3b-9d65-4eaa-8506-53c9977c2d38	nextflow run nf-core/differentialabundance --outdir results -profile test,docker
